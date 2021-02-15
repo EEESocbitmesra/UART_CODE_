@@ -1,0 +1,41 @@
+NET "clock" LOC="B8";
+NET "reset" LOC="G12";
+NET "TXstart" LOC="A7";
+
+NET "baud_sel" LOC="C11";
+
+NET "TXbusy" LOC="G1";
+NET "parity_error" LOC="P4";
+NET "stop_bit_error" LOC="N4";
+NET "BAUD_RATE[1]" LOC="M11";
+NET "BAUD_RATE[0]" LOC="M5";
+
+NET "AN<0>" LOC="K14";
+NET "AN<1>" LOC="M13";
+NET "AN<2>" LOC="J12";
+NET "AN<3>" LOC="F12";
+
+NET "segment_data<6>" LOC="L14";
+NET "segment_data<5>" LOC="H12";
+NET "segment_data<4>" LOC="N14";
+NET "segment_data<3>" LOC="N11";
+NET "segment_data<2>" LOC="P12";
+NET "segment_data<1>" LOC="L13";
+NET "segment_data<0>" LOC="M12";
+
+
+NET "TX_data_in<7>" LOC="N3";
+NET "TX_data_in<6>" LOC="E2";
+NET "TX_data_in<5>" LOC="F3";
+NET "TX_data_in<4>" LOC="G3";
+NET "TX_data_in<3>" LOC="B4";
+NET "TX_data_in<2>" LOC="K3";
+NET "TX_data_in<1>" LOC="L3";
+NET "TX_data_in<0>" LOC="P11";
+
+
+
+
+
+
+

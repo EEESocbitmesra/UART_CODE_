@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/BAUD_RATE_GEN.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/BIN_2_BCD_top.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/PISO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/RECEIVER.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/RXFSM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/SEVEN_SEGMENT_DRIVER.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/SIPO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/TRANSMITTER.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/TXFSM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/TXMUX.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/UART.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/UART_FPGA.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/bin_to_bcd.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/detect_start.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/parity_checker.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/parity_gen.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/stop_bit_chker.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/switch_debouncer.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

@@ -1,0 +1,46 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/test_UART_isim_beh.exe" -prj "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/test_UART_beh.prj" "work.test_UART" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/TXMUX.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/TXFSM.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/stop_bit_chker.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/SIPO.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/RXFSM.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/PISO.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/parity_gen.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/parity_checker.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/detect_start.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/TRANSMITTER.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/switch_debouncer.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/RECEIVER.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/BAUD_RATE_GEN.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/UART.v" into library work
+Analyzing Verilog file "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/test_UART.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/UART.v" Line 27: Size mismatch in connection of port <switch>. Formal port size is 1-bit while actual signal size is 2-bit.
+Completed static elaboration
+Compiling module switch_debouncer
+Compiling module BAUD_RATE_GEN
+Compiling module PISO
+Compiling module parity_gen
+Compiling module TXFSM
+Compiling module TXMUX
+Compiling module TRANSMITTER
+Compiling module RXFSM
+Compiling module detect_start
+Compiling module SIPO
+Compiling module parity_checker
+Compiling module stop_bit_chker
+Compiling module RECEIVER
+Compiling module UART
+Compiling module test_UART
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 9 sub-compilation(s) to finish...
+Compiled 16 Verilog Units
+Built simulation executable C:/Users/KARTIK/Desktop/VLSI/PROJECTS/UART/UART_CODE_ ADITYA/test_UART_isim_beh.exe
+Fuse Memory Usage: 27244 KB
+Fuse CPU Usage: 561 ms

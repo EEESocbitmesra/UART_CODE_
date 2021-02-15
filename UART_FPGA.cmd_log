@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "C:/Users/Hp User/Desktop/procejt/UART/UART_CODE/UART_FPGA.xst" -ofn "C:/Users/Hp User/Desktop/procejt/UART/UART_CODE/UART_FPGA.syr" 
+xst -intstyle ise -ifn "F:/ADITYA K. JHA/PROJECT/UART/UART_CODE/UART_FPGA.xst" -ofn "F:/ADITYA K. JHA/PROJECT/UART/UART_CODE/UART_FPGA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc uart.ucf -p xc3s100e-cp132-5 "UART_FPGA.ngc" UART_FPGA.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o UART_FPGA_map.ncd UART_FPGA.ngd UART_FPGA.pcf 
+par -w -intstyle ise -ol high -t 1 UART_FPGA_map.ncd UART_FPGA.ncd UART_FPGA.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml UART_FPGA.twx UART_FPGA.ncd -o UART_FPGA.twr UART_FPGA.pcf -ucf uart.ucf 
+bitgen -intstyle ise -f UART_FPGA.ut UART_FPGA.ncd 
