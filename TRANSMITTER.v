@@ -7,11 +7,11 @@ module TRANSMITTER(
 												TX_out,
 												TXbusy
 												);
-input clock;
-input reset_n;
-input TXstart;
-input [7:0]TX_data_in;
-output TX_out;
+input clock ;
+input reset_n ;
+input TXstart ;
+	input [7:0]TX_data_in ;
+output TX_out ;
 output TXbusy;
 wire [1:0]select;
 
