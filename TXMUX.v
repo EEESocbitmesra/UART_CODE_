@@ -13,9 +13,9 @@ module TXMUX(
 input send_data;
 input send_parity;
 input send_stop_bit;*/
-input [1:0]select;
-input data_bit;
-input parity_bit;
+	input [1:0]select ;
+input data_bit ;
+input parity_bit ;
 
 output reg tx_out;
 
